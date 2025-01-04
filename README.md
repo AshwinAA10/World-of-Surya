@@ -1,4 +1,4 @@
-**World of Surya - Your Ultimate Streaming Destination** 🎬
+![Login Page](https://github.com/user-attachments/assets/8a2f792a-20e4-43e5-bc93-6e2c2b234e0a)**World of Surya - Your Ultimate Streaming Destination** 🎬
 An all-in-one platform to watch and enjoy a wide range of entertainment – movies, TV shows, and more – with a modern, sleek design that mimics popular platforms like Netflix!
 
  **About the Project**
@@ -22,7 +22,8 @@ Perfect for Suriya fans, who are looking for a seamless way to stream!
 **Screenshots**
 Here are some visual previews of the project to give you a taste of what it looks like in action:
 
-![Login page](https://drive.google.com/file/d/16ImcGyCAKynEAR1MCNuAB2vf5v8yWN5g/view?usp=drive_link)  
+![Login page](![Login Page](https://github.com/user-attachments/assets/b2d856ac-4933-4f3b-b1b9-7d2809948c18)
+)  
 An interactive login page.
 
 ![Homepage](https://drive.google.com/file/d/1L4TsgK5qEujbmz09Qafx2x0a8o-8qEaG/view?usp=drive_link)  
